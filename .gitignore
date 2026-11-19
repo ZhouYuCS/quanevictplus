@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Output artifacts
+outputs*/
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Models / data (not uploaded, fill in paths yourself)
+*.npy
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Environment
+.venv/
+venv/
+env/
+
+# IDE / system
+.idea/
+.vscode/
+.DS_Store
+
+# Git
+.git/
